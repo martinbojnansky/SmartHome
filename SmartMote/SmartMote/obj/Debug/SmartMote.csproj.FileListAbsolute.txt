@@ -1,0 +1,98 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\SmartMote.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\SmartMote.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\SmartSockets.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\SmartSockets.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.App.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Main.MainView.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Radio.RadioView.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Settings.SettingsView.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\XamarinToolkit.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\XamarinToolkit.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Devices.DevicesView.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Alarm.AlarmView.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Shared.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Shared.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\ModernHttpClient.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Pages.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Theme.Base.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Autofac.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote\bin\Debug\Autofac.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\SmartMote.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\SmartMote.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Autofac.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\ModernHttpClient.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Shared.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\SmartSockets.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Pages.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Theme.Base.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\XamarinToolkit.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\SmartSockets.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Autofac.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Shared.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\XamarinToolkit.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.App.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Main.MainView.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Alarm.AlarmView.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Radio.RadioView.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Settings.SettingsView.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Devices.DevicesView.xaml.g.cs
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.csprojResolveAssemblyReference.cache
+D:\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.App.xaml.g.cs
+D:\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Main.MainView.xaml.g.cs
+D:\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Alarm.AlarmView.xaml.g.cs
+D:\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Radio.RadioView.xaml.g.cs
+D:\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Settings.SettingsView.xaml.g.cs
+D:\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.Views.Devices.DevicesView.xaml.g.cs
+D:\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\SmartMote.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\SmartMote.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Autofac.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\ModernHttpClient.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Shared.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\SmartSockets.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Core.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Pages.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Theme.Base.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\XamarinToolkit.dll
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\SmartSockets.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Autofac.xml
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Shared.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Core.xml
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\XamarinToolkit.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote\obj\Debug\SmartMote.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote\bin\Debug\SmartMote.dll.mdb

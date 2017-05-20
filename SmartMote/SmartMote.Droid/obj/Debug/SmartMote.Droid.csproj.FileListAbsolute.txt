@@ -1,0 +1,153 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.Droid.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.Droid.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.Droid.apk
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.Droid-Signed.apk
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartSockets.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\XamarinToolkit.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartSockets.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\XamarinToolkit.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\SmartMote.Droid.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\SmartMote.Droid.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\SmartMote.Droid.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\bin\SmartMote.Droid.apk
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\values\styles.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\R.cs.flag
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\uploadflags.txt
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.Droid.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartSockets.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\XamarinToolkit.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\SmartMote.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\SmartMote.Droid.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\SmartSockets.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\XamarinToolkit.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Radio.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\Radio.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Shared.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Shared.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Shared.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\Shared.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Autofac.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Autofac.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\drawable\entryborder.xml
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\SmartMote.Droid.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\SmartMote.Droid.csprojResolveAssemblyReference.cache
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\SmartMote.Droid.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\SmartMote.Droid.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.Droid.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.Droid.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.Droid.apk
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.Droid-Signed.apk
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\FormsViewGroup.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartSockets.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\XamarinToolkit.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Shared.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Autofac.dll
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartSockets.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\XamarinToolkit.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Shared.pdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Autofac.xml
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\bin\SmartMote.Droid.apk
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\drawable\icon.png
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\layout\tabbar.xml
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\layout\toolbar.xml
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\values\styles.xml
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\res\drawable\entryborder.xml
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\R.cs.flag
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\uploadflags.txt
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.Droid.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\XamarinToolkit.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartSockets.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Java.Interop.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Mono.Android.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\mscorlib.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\Shared.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.Core.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.Net.Http.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.Xml.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\Shared.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\SmartMote.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\SmartMote.Droid.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\SmartSockets.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\android\assets\XamarinToolkit.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\obj\Debug\SmartMote.Droid.dll.mdb
+D:\Projects\SmartHome\SmartMote\SmartMote.Droid\bin\Debug\SmartMote.Droid.dll.mdb

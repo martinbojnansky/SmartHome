@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls:TabPage xmlns="http://xamarin.com/schemas/2014/forms"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                  xmlns:controls="clr-namespace:SmartMote.Controls"
+                  x:Class="SmartMote.Views.Settings.SettingsView"
+                  Title="SETTINGS">
+    <ScrollView>
+        <StackLayout
+            Padding="{StaticResource PagePadding}">
+            <!--IP Address-->
+            <Label
+                Text="IP Address"/>
+            <controls:TextBox
+                Text="{Binding IPAddress, Mode=TwoWay}"
+                Placeholder="IP Address"/>
+        </StackLayout>
+    </ScrollView>
+</controls:TabPage>

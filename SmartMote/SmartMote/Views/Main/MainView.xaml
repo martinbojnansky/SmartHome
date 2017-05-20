@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls:TabControl xmlns="http://xamarin.com/schemas/2014/forms"
+                     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                     xmlns:controls="clr-namespace:SmartMote.Controls"
+                     xmlns:alarm="clr-namespace:SmartMote.Views.Alarm"
+                     xmlns:radio="clr-namespace:SmartMote.Views.Radio"
+                     xmlns:devices="clr-namespace:SmartMote.Views.Devices"
+                     xmlns:settings="clr-namespace:SmartMote.Views.Settings"
+                     x:Class="SmartMote.Views.Main.MainView"
+                     Title="Smart Mote">
+
+    <!--Tabs-->
+    <radio:RadioView/>
+    <alarm:AlarmView/>
+    <devices:DevicesView/>
+    <settings:SettingsView/>
+    
+</controls:TabControl>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls:TabPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:SmartMote.Controls"
+             x:Class="SmartMote.Views.Alarm.AlarmView"
+             Title="ALARM">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!--Alarm Settings-->
+        <ScrollView>
+            <StackLayout
+                Padding="{StaticResource PagePadding}">
+                <!--Time-->
+                <Label
+                    Text="Time"/>
+                <controls:TimeSpanPicker
+                    Time="{Binding Time, Mode=TwoWay}"
+                    Format="HH:mm"
+                    Is24Hour="True"
+                    HorizontalOptions="Fill"/>
+                <!--Is Active-->
+                <Label
+                    Text="Is Active"/>
+                <Switch
+                    IsToggled="{Binding Alarm.IsActive}"
+                    HorizontalOptions="Start"/>
+                <!--Radio-->
+                <Label
+                    Text="Radio"/>
+                <controls:SelectBox
+                    ItemsSource="{Binding Stations}"
+                    SelectedItem="{Binding SelectedStation, Mode=TwoWay}"/>
+                <!--Volume-->
+                <Label
+                    Text="Volume"/>
+                <StackLayout>
+                    <StackLayout.Padding>
+                        <OnPlatform x:TypeArguments="Thickness" Android="-12,5"/>
+                    </StackLayout.Padding>
+                    <Slider
+                        Minimum="0"
+                        Maximum="20"
+                        Value="{Binding Alarm.Volume, Mode=TwoWay}"/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+
+        <!--Loading Overlay-->
+        <ActivityIndicator
+            IsRunning="{Binding IsBusy}"
+            Color="{StaticResource AccentColor}"/>
+
+        <!--Controls-->
+        <Grid
+            Grid.Row="1"
+            BackgroundColor="{StaticResource LightGrayColor}"
+            Padding="{StaticResource PagePadding}">
+            <controls:Button
+                Text="SAVE"
+                Command="{Binding SaveCommand}"/>
+        </Grid>
+        
+    </Grid>
+
+    <!--Toolbar-->
+    <ContentPage.ToolbarItems>
+        <ToolbarItem 
+            Name="Refresh"
+            Icon="Images/refresh.png"
+            Command="{Binding RefreshCommand}"/>
+    </ContentPage.ToolbarItems>
+</controls:TabPage>

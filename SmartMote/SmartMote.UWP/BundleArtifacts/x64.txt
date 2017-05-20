@@ -1,0 +1,2 @@
+MainPackage=C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote.UWP\bin\x64\Debug\SmartMote.UWP_1.0.0.0_x64_Debug.appx
+SymbolPackage=C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote.UWP\AppPackages\SmartMote.UWP_1.0.0.0_Debug_Test\SmartMote.UWP_1.0.0.0_x64_Debug.appxsym

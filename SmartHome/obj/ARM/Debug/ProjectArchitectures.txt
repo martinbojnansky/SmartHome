@@ -1,0 +1,5 @@
+D:\Projects\SmartHome\Shared\Shared.csproj;neutral
+D:\Projects\SmartHome\Shared\Shared.csproj;neutral
+D:\Projects\SmartHome\SmartHome\SmartHome.csproj;arm
+D:\Projects\SmartHome\SmartSockets\SmartSockets.csproj;neutral
+D:\Projects\UWPToolkit\UWPToolkit.csproj;neutral

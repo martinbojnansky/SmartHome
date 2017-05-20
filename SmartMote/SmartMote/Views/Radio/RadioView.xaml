@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls:TabPage       
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:controls="clr-namespace:SmartMote.Controls"
+    x:Class="SmartMote.Views.Radio.RadioView"
+    x:Name="Root"
+    Title="RADIO">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!--Stations-->
+        <ListView
+            ItemsSource="{Binding Stations}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.Padding>
+                                <OnPlatform x:TypeArguments="Thickness" Android="12,0" WinPhone="12"/>
+                            </Grid.Padding>
+                            <Grid.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Command="{Binding Source={x:Reference Name=Root}, Path=BindingContext.PlayCommand}"
+                                    CommandParameter="{Binding}"/>
+                            </Grid.GestureRecognizers>
+                            <Label 
+                                Text="{Binding Title}"
+                                VerticalOptions="Center">
+                                <Label.FontSize>
+                                    <OnPlatform x:TypeArguments="x:Double" Android="16"/>
+                                </Label.FontSize>
+                            </Label>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!--Loading Overlay-->
+        <ActivityIndicator
+            IsRunning="{Binding IsBusy}"
+            Color="{StaticResource AccentColor}"/>
+
+        <!--Controls-->
+        <Grid
+            Grid.Row="1"
+            BackgroundColor="{StaticResource LightGrayColor}"
+            Padding="{StaticResource PagePadding}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <controls:Button
+                Grid.Column="0"
+                Text="STOP"
+                Command="{Binding StopCommand}"/>
+            <controls:Button
+                Grid.Column="1"
+                Text="-"
+                Command="{Binding VolumeDownCommand}"/>
+            <controls:Button
+                Grid.Column="2"
+                Text="+"
+                Command="{Binding VolumeUpCommand}"/>
+        </Grid>
+    </Grid>
+
+    <!--Toolbar-->
+    <ContentPage.ToolbarItems>
+        <ToolbarItem 
+            Name="Refresh"
+            Icon="Images/refresh.png"
+            Command="{Binding RefreshCommand}"/>
+    </ContentPage.ToolbarItems>
+</controls:TabPage>

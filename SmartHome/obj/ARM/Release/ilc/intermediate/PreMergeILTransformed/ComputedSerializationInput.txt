@@ -1,0 +1,5 @@
+"/t:System.Collections.Generic.List`1[[Shared.Models.Radio.RadioStation,Shared]],mscorlib,json"
+"/t:Shared.Models.Alarm.Alarm,Shared,json"
+"/t:SmartSockets.Commands.SocketCommand,SmartSockets,json"
+"/t:SmartSockets.Responses.SocketResponse,SmartSockets,json"
+"/t:Shared.Models.Radio.RadioStation,Shared,json"

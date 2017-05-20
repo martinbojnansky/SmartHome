@@ -1,0 +1,22 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\Shared\bin\Debug\Shared.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\Shared\bin\Debug\Shared.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\Shared\obj\Debug\Shared.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\Shared\obj\Debug\Shared.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\Shared\bin\Debug\Shared.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\Shared\bin\Debug\Shared.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\Shared\obj\Debug\Shared.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\Shared\obj\Debug\Shared.pdb
+D:\Projects\SmartHome\Shared\bin\Debug\Shared.dll
+D:\Projects\SmartHome\Shared\bin\Debug\Shared.pdb
+D:\Projects\SmartHome\Shared\obj\Debug\Shared.dll
+D:\Projects\SmartHome\Shared\obj\Debug\Shared.pdb
+D:\Projects\SmartHome\Shared\obj\Debug\Shared.dll.mdb
+D:\Projects\SmartHome\Shared\bin\Debug\Shared.dll.mdb
+D:\Projects\SmartHome\Shared\obj\Debug\Shared.dll.mdb
+D:\Projects\SmartHome\Shared\bin\Debug\Shared.dll.mdb
+D:\Projects\SmartHome\Shared\obj\Debug\Shared.dll.mdb
+D:\Projects\SmartHome\Shared\bin\Debug\Shared.dll.mdb
+D:\Projects\SmartHome\Shared\obj\Debug\Shared.dll.mdb
+D:\Projects\SmartHome\Shared\bin\Debug\Shared.dll.mdb

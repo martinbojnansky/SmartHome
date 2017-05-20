@@ -1,0 +1,29 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\bin\Debug\SmartSockets.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\bin\Debug\SmartSockets.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\obj\Debug\SmartSockets.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\obj\Debug\SmartSockets.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\obj\Debug\SmartSockets.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\bin\Debug\Shared.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\bin\Debug\Shared.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\obj\Debug\SmartSockets.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\bin\Debug\SmartSockets.dll.mdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartSockets\bin\Debug\SmartSockets.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartSockets\bin\Debug\SmartSockets.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartSockets\bin\Debug\Shared.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartSockets\bin\Debug\Shared.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartSockets\obj\Debug\SmartSockets.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartSockets\obj\Debug\SmartSockets.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartSockets\obj\Debug\SmartSockets.pdb
+D:\Projects\SmartHome\SmartSockets\bin\Debug\SmartSockets.dll
+D:\Projects\SmartHome\SmartSockets\bin\Debug\SmartSockets.pdb
+D:\Projects\SmartHome\SmartSockets\bin\Debug\Shared.dll
+D:\Projects\SmartHome\SmartSockets\bin\Debug\Shared.pdb
+D:\Projects\SmartHome\SmartSockets\obj\Debug\SmartSockets.csprojResolveAssemblyReference.cache
+D:\Projects\SmartHome\SmartSockets\obj\Debug\SmartSockets.dll
+D:\Projects\SmartHome\SmartSockets\obj\Debug\SmartSockets.pdb
+D:\Projects\SmartHome\SmartSockets\obj\Debug\SmartSockets.dll.mdb
+D:\Projects\SmartHome\SmartSockets\bin\Debug\SmartSockets.dll.mdb
+D:\Projects\SmartHome\SmartSockets\obj\Debug\SmartSockets.dll.mdb
+D:\Projects\SmartHome\SmartSockets\bin\Debug\SmartSockets.dll.mdb
+D:\Projects\SmartHome\SmartSockets\obj\Debug\SmartSockets.dll.mdb
+D:\Projects\SmartHome\SmartSockets\bin\Debug\SmartSockets.dll.mdb

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls:TabPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:SmartMote.Controls"
+             x:Class="SmartMote.Views.Devices.DevicesView"
+             Title="DEVICES">
+    <ScrollView>
+        <StackLayout
+            Padding="{StaticResource PagePadding}">
+            <!--GPIO 18-->
+            <Label
+                Text="GPIO 18"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <controls:Button
+                    Grid.Column="0"
+                    Text="ON"
+                    Command="{Binding TurnOnCommand}"
+                    VerticalOptions="Center"/>
+                <controls:Button
+                    Grid.Column="1"
+                    Text="OFF"
+                    Command="{Binding TurnOffCommand}"
+                    VerticalOptions="Center"/>
+            </Grid>
+        </StackLayout>
+    </ScrollView>
+</controls:TabPage>
