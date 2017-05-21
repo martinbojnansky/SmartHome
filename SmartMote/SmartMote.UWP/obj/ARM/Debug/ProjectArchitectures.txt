@@ -1,9 +1,0 @@
-D:\Projects\SmartHome\Shared\Shared.csproj;neutral
-D:\Projects\SmartHome\Shared\Shared.csproj;neutral
-D:\Projects\SmartHome\Shared\Shared.csproj;neutral
-D:\Projects\SmartHome\SmartMote\SmartMote.UWP\SmartMote.UWP.csproj;arm
-D:\Projects\SmartHome\SmartMote\SmartMote\SmartMote.csproj;neutral
-D:\Projects\SmartHome\SmartSockets\SmartSockets.csproj;neutral
-D:\Projects\SmartHome\SmartSockets\SmartSockets.csproj;neutral
-D:\Projects\XamarinToolkit\XamarinToolkit\XamarinToolkit.csproj;neutral
-D:\Projects\XamarinToolkit\XamarinToolkit\XamarinToolkit.csproj;neutral
