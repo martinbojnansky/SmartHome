@@ -1,5 +1,0 @@
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\Shared\bin\Release\Shared.dll
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\Shared\bin\Release\Shared.pdb
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\Shared\obj\Release\Shared.csprojResolveAssemblyReference.cache
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\Shared\obj\Release\Shared.dll
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\Shared\obj\Release\Shared.pdb
