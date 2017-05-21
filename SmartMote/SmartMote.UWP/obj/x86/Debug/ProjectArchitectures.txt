@@ -1,3 +1,0 @@
-C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote.UWP\SmartMote.UWP.csproj;x86
-C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartMote\SmartMote\SmartMote.csproj;neutral
-C:\Users\marti\Documents\Visual Studio 2015\Projects\SmartHome\SmartSockets\SmartSockets.csproj;neutral

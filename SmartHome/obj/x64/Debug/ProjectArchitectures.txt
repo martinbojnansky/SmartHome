@@ -1,1 +1,0 @@
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartHome\SmartHome.csproj;x64
