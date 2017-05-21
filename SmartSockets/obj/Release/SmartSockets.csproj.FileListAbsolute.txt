@@ -1,7 +1,0 @@
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\bin\Release\SmartSockets.dll
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\bin\Release\SmartSockets.pdb
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\bin\Release\Shared.dll
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\bin\Release\Shared.pdb
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\obj\Release\SmartSockets.csprojResolveAssemblyReference.cache
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\obj\Release\SmartSockets.dll
-C:\Users\marti\Documents\Visual Studio 2015\Projects\Smart Home\SmartHome\SmartSockets\obj\Release\SmartSockets.pdb
