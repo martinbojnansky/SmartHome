@@ -7,5 +7,5 @@ http://bojnansky.com/portfolio/smarthome/
 
 ## Preview
 
-<img src="http://bojnansky.com/wp-content/uploads/smarthome-1.png" height="500px"/>
-<img src="http://bojnansky.com/wp-content/uploads/smarthome-2.png" height="500px"/>
+<span><img src="http://bojnansky.com/wp-content/uploads/smarthome-1.png" height="500px"/>
+  <img src="http://bojnansky.com/wp-content/uploads/smarthome-2.png" height="500px"/></span>
