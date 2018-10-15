@@ -9,3 +9,7 @@ http://bojnansky.com/portfolio/smarthome/
 
 <span><img src="http://bojnansky.com/wp-content/uploads/smarthome-1.png" height="500px"/>
   <img src="http://bojnansky.com/wp-content/uploads/smarthome-2.png" height="500px"/></span>
+  
+## Light switch
+
+To create a light control relay and voice command recognition follow the tutorial on: http://bojnansky.com/voice-and-wi-fi-controlled-lamp/.
