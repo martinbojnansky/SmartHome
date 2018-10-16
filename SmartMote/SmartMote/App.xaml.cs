@@ -18,12 +18,14 @@ namespace SmartMote
         {
             InitializeComponent();
 
-            IoCResolver.BuildContainer(typeof(App).GetTypeInfo().Assembly);
+            IoCResolver.BuildContainer(new Assembly[] {
+                typeof(App).GetTypeInfo().Assembly,             
+            });
 
             MainPage = new NavigationPage(new MainView())
             {
-                BarBackgroundColor = Device.OnPlatform<Color>(Color.Transparent, Color.FromHex("#3f51b5"), Color.FromHex("#3f51b5")),
-                BarTextColor = Device.OnPlatform<Color>(Color.Black, Color.White, Color.White)
+                BarBackgroundColor = Color.FromHex("#3f51b5"),
+                BarTextColor = Color.White
             };
         }
 

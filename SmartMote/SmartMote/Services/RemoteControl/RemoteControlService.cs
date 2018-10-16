@@ -21,11 +21,11 @@ namespace SmartMote.Services.RemoteControl
         {
             get
             {
-                return (string)LocalSettings.TryGetValue("IPAddress");
+                return (string)LocalSettings?.TryGetValue("IPAddress");
             }
             set
             {
-                LocalSettings.SetValue("IPAddress", value);
+                LocalSettings?.SetValue("IPAddress", value);
             }
         }
 
