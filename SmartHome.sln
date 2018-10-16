@@ -40,7 +40,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWPToolkit", "UWPToolkit\UWPToolkit.csproj", "{1371A7A1-85EB-450F-A125-CE0DBB9A497F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinToolkit", "XamarinToolkit\XamarinToolkit\XamarinToolkit.csproj", "{D7BCB05C-C101-4F81-9A83-DEB678C4D3EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinToolkit", "XamarinToolkit\XamarinToolkit.csproj", "{D7BCB05C-C101-4F81-9A83-DEB678C4D3EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

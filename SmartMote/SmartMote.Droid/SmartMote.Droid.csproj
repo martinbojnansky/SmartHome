@@ -84,7 +84,7 @@
       <Project>{8f2ddb04-ab6d-4b59-90b4-fb0b5cf6bb12}</Project>
       <Name>SmartSockets</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\XamarinToolkit\XamarinToolkit\XamarinToolkit.csproj">
+    <ProjectReference Include="..\..\XamarinToolkit\XamarinToolkit.csproj">
       <Project>{d7bcb05c-c101-4f81-9a83-deb678c4d3ec}</Project>
       <Name>XamarinToolkit</Name>
     </ProjectReference>
